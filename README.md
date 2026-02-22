@@ -86,12 +86,6 @@ Find a bug? Think of an awesome new feature? Your music service isn't supported 
 
 We ❤️ contributors! Feel free to contribute to this project but **please read the [Contributing Guidelines](docs/CONTRIBUTING.md) before opening an issue or PR** so you understand the branching strategy and local development environment.
 
-<a href="https://github.com/SynQApp/Extension/graphs/contributors">
-  <p align="center">
-    <img width="160" src="https://contrib.rocks/image?repo=SynQApp/Extension" alt="A table of avatars from the project's contributors" />
-  </p>
-</a>
-
 <p align="center">
   Made with <a rel="noopener noreferrer" target="_blank" href="https://contrib.rocks">contrib.rocks</a>
 </p>
